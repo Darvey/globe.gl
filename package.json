@@ -43,7 +43,7 @@
     "accessor-fn": "1",
     "kapsule": "^1.13",
     "three": ">=0.118 <1",
-    "three-globe": "^2.24",
+    "three-globe": "github:Darvey/three-globe",
     "three-render-objects": "^1.26"
   },
   "devDependencies": {
